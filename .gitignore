@@ -1,0 +1,8 @@
+text
+__pycache__/
+.venv/
+venv/
+.env
+*.key
+souled_store_products.csv
+souled_store_products.json
